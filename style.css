@@ -1,0 +1,151 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: sans-serif;
+}
+.top-banner
+{
+    height: 700px;
+    
+    background: url("header-bg.png");
+        
+    background-size: cover;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    padding-left: 3%;
+}
+img
+{
+    width: 100%;
+}
+.packet
+{
+    padding-top: 7%;
+}
+#txt
+{
+    margin-top: 8%;
+    margin-left: 5%;
+}
+p
+{
+    color: dimgray;
+    line-height:25px;
+}
+.packet h1
+{
+    font-size: 40px;
+    color: deeppink;
+    letter-spacing: 1px;
+}
+.packet h2
+{
+    font-size: 35px;
+    font-weight: 300;
+}
+.link-button
+{
+    text-decoration: none;
+    background-color: rgba(255, 0, 212, 0.74);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+section
+{
+    margin-bottom: 150px;
+}
+
+.mid-banner
+{
+    height: 700px;
+    
+    background: url("biography-bg.png");
+    background-position: left;
+        
+    background-size: cover;
+}
+#second
+{
+    margin-top: 10%;
+    margin-left: 7%;
+}
+#second h2
+{
+    font-weight: 300;
+}
+.one-third
+{
+    margin-top: 5%;
+    width: 25%;
+    float: left;
+    padding-left: 2%;
+    
+}
+.containt
+{
+    margin-left: 12%;
+}
+
+.last-banner
+{
+    height: 700px;
+    
+    background: url("latest-work-bg.png");
+   
+        
+    background-size: cover;
+}
+.work,.containt
+{
+    margin-top: 13%;
+}
+.foot
+{
+    width:100;
+    text-align: center;
+    font-size: 10px;
+
+}
+button
+{
+    
+    color: white;
+    
+    background-color:rgba(255, 0, 212, 0.74) ;
+    border: none;
+    padding: 10px 100px;
+}
+.foot h2
+{
+    font-size: 25px;
+    font-weight: 300;
+}
+.foot h4
+{
+    font-size: 18px;
+}
+.foot p
+{
+    font-size: 10px;
+}
+#lorem
+{
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.main
+{
+    height: 500px;
+    
+    background: url("footer-bg.png");
+   
+        
+    background-size: cover;
+}
